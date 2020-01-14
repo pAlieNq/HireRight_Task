@@ -3,9 +3,12 @@
 Weather Service is available on the /weather
 
 GET method
+
 Parameters:
   city
+  
 Example:
+  
   http://localhost:8080/weather?city=Tallinn
   
   Output:
@@ -54,8 +57,10 @@ Example:
 Geo-Location service is available on the /geolocation
 
 POST method
+
 Parameters:
   zip-code
+  
 Example:
   zip-code=11913
   
