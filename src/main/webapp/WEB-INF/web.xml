@@ -14,14 +14,4 @@
         <url-pattern>/weather</url-pattern>
     </servlet-mapping>
 
-    <servlet>
-        <servlet-name>geolocation</servlet-name>
-        <servlet-class>GeoLocationService</servlet-class>
-    </servlet>
-
-    <servlet-mapping>
-        <servlet-name>geolocation</servlet-name>
-        <url-pattern>/geolocation</url-pattern>
-    </servlet-mapping>
-
 </web-app>

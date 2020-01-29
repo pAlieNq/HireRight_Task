@@ -1,0 +1,46 @@
+[
+  {
+    "city": "Tallinn",
+    "temp_c": "0",
+    "wind_ms": "5",
+    "wind_dir": "SE",
+    "humidity": "80",
+    "pressure_mb": "990"
+  },
+
+  {
+    "city": "Moscow",
+    "temp_c": -1,
+    "wind_ms": 2.5,
+    "wind_dir": "SE",
+    "humidity": 94,
+    "pressure_mb": 1008
+  },
+
+  {
+    "city": "New York",
+    "temp_c": "4",
+    "wind_ms": "8",
+    "wind_dir": "NW",
+    "humidity": "57",
+    "pressure_mb": "1011"
+  },
+
+  {
+    "city": "Tokyo",
+    "temp_c": "12",
+    "wind_ms": "3.6",
+    "wind_dir": "W",
+    "humidity": "81",
+    "pressure_mb": "1003"
+  },
+
+  {
+    "city": "Rio De Janeiro",
+    "temp_c": "26",
+    "wind_ms": "2",
+    "wind_dir": "SW",
+    "humidity": "84",
+    "pressure_mb": "1011"
+  }
+]
