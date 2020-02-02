@@ -3,9 +3,12 @@
 Weather Service is available on the /weather
 
 GET method
+
 Parameters:
   city
+  
 Example:
+  
   http://localhost:8080/weather?city=Tallinn
   
   Output:
