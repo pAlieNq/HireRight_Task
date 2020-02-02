@@ -11,7 +11,6 @@
     <title>$Title$</title>
   </head>
   <body>
-    <p>Weather Service is available on the localhost:8080/weather</p>
-    <p>Geo-Location service is available on the localhost:8080/geolocation</p>
+    <p>Weather Service is available on the localhost:9090/weather</p>
   </body>
 </html>

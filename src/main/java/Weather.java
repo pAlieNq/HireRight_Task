@@ -55,14 +55,4 @@ public class Weather {
         this.pressure_mb = pressure_mb;
     }
 
-    /*public Weather(String city, int temp_c, int wind_ms, String wind_dir, int humidity, int pressure_mb) {
-
-        this.city = city;
-        this.temp_c = temp_c;
-        this.wind_ms = wind_ms;
-        this.wind_dir = wind_dir;
-        this.humidity = humidity;
-        this.pressure_mb = pressure_mb;
-
-    }*/
 }
